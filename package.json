@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mi-os/TS-for-JS/issues"
   },
-  "homepage": "https://github.com/mi-os/TS-for-JS#readme"
+  "homepage": "https://github.com/mi-os/TS-for-JS#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }
